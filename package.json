@@ -1,0 +1,15 @@
+{
+  "name": "cro",
+  "version": "1.0.0",
+  "description": "cronograma de postagens ",
+  "main": "index.js",
+  "author": "Thaynara Celestino Pereto Cunha <thay_pereto@hotmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts":{
+    "dev":"http-serve"
+  },
+  "dependencies": {
+    "http-serve": "^1.0.1"
+  }
+}
